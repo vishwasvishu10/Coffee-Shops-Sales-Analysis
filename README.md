@@ -21,4 +21,4 @@ performance.
 ![Screenshot (5)](https://github.com/user-attachments/assets/df3e39b9-97e3-4022-9199-b1e1e2430f70)
 
 ## Result:
-Analysed peak demand hours, detected underutilized time slots and compared weekday vs weekend trends, Sales growth compared to previous month.
+Analysed top selling products, peak selling hours, top performing stores, compared weekday vs weekend Sales  and Sales growth compared to previous month.
