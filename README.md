@@ -14,3 +14,8 @@ performance.
 <a href="https://github.com/vishwasvishu10/Coffee-Shops-Sales-Analysis/blob/main/coffee_sales.pbit">View Dashboard</a>
 
 ![Screenshot 2025-06-15 183654](https://github.com/user-attachments/assets/19dac177-066d-464e-b01c-976eb9a01b5e)
+
+
+![Screenshot (4)](https://github.com/user-attachments/assets/531365fd-97e8-46b1-a71f-de0a55c2e2ae)
+
+![Screenshot (5)](https://github.com/user-attachments/assets/df3e39b9-97e3-4022-9199-b1e1e2430f70)
